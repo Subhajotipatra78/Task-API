@@ -59,4 +59,8 @@ content-type: application/json
 
 ## 📸 Interactive Swagger Documentation
 
-Access Swagger UI interactive docs at `http://localhost:8000/docs`.
+Access Swagger UI interactive docs at `http://localhost:8000/docs`.https://github.com/Subhajotipatra78/Task-API/blob/main/Screenshot%20(33).png
+
+## 🗄️ Database Integration (SQLite)
+
+In Week 3, the storage layer was migrated from an in-memory Python list to **SQLite** (`tasks.db`)[span_9](start_span)[span_9](end_span).
