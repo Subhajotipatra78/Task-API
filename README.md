@@ -80,4 +80,6 @@ SUPABASE_URL=[https://your-project-id.supabase.co](https://your-project-id.supab
 SUPABASE_KEY=your-anon-public-jwt-key
 PORT=8000
 
-swagger -proof.png = https://github.com/Subhajotipatra78/Task-API/blob/main/Screenshot%20(38).png
+## 📸 Swagger UI Bearer Authentication
+
+![Swagger Bearer Auth](https://github.com/Subhajotipatra78/Task-API/blob/main/Screenshot%20(38).png?raw=true)
