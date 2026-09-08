@@ -64,3 +64,18 @@ Access Swagger UI interactive docs at `http://localhost:8000/docs`.https://githu
 ## 🗄️ Database Integration (SQLite)
 
 In Week 3, the storage layer was migrated from an in-memory Python list to **SQLite** (`tasks.db`)[span_9](start_span)[span_9](end_span).
+
+---
+
+# 🔐 Week 4 - Assignment: Auth (Login & Protect)
+
+A secure authentication API built with FastAPI and Supabase Auth[span_1](start_span)[span_1](end_span). The application demonstrates user registration, login, session termination, JWT verification via reusable dependency guards, and interactive Swagger UI Bearer authentication[span_2](start_span)[span_2](end_span).
+
+## 🛠️ Environment Configuration
+
+Create a `.env` file based on `.env.example` containing your Supabase credentials[span_3](start_span)[span_3](end_span):
+
+```env
+SUPABASE_URL=[https://your-project-id.supabase.co](https://your-project-id.supabase.co)
+SUPABASE_KEY=your-anon-public-jwt-key
+PORT=8000
